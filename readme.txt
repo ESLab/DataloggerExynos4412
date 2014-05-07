@@ -1,0 +1,1 @@
+Please first run drivers.sh and then ./Datalogger oDroid.config etc.
